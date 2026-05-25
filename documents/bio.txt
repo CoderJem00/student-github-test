@@ -1,4 +1,4 @@
 Country: Nigerian
 Studies: Modern Software Development
-I: Web Development
-H: Reading, Researching, Listening to music
+Interest: Web Development
+Hobby: Reading, Researching, Listening to music, Hiking
